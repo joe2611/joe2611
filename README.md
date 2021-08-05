@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚀 I'm Joe!
-- 🔭 I’m currently working with flutter / dart / C# / dotnet
+- 🔭 I’m currently working with flutter / dart / C# / dotnet / JS
 - 🌱 I’m currently learning data science
 - ⚡ Fun fact: I do not drink coke
 
