@@ -6,4 +6,4 @@
 
 ## 📊 Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe2611&show_icons=true&theme=dark&custom_title=Github%20Status)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe2611&layout=compact&theme=dark)
+
