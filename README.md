@@ -10,5 +10,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe2611&show_icons=true&theme=dark&custom_title=Github%20Status)
 
 ## Wakatime week
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joe2611)](https://github.com/joe2611/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joe2611&theme=dark)](https://github.com/joe2611/github-readme-stats)
 
