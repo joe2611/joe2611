@@ -19,7 +19,7 @@
 
 <br>
 <br>
-  <a href = "mailto:112.eoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:1162.eoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.linkedin.com/in/larissa-gabriela-oliveira-de-santana-a11948142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 
 <!-- ## 📊 Github Status
