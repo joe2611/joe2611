@@ -20,7 +20,8 @@
 <br>
 <br>
   <a href = "mailto:1162.eoj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/larissa-gabriela-oliveira-de-santana-a11948142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <a href="https://twitter.com/heeyjoey" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joe-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!-- ## 📊 Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe2611&show_icons=true&theme=dark&custom_title=Github%20Status) -->
